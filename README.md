@@ -2,6 +2,6 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://ecoredsena-santander.github.io/93510381_INFO_MATERIALES_INSUMOS_MAQUINARIA_CONFECCION_ROPA_INTERIOR/](https://ecoredsena-santander.github.io/93510381_INFO_MATERIALES_INSUMOS_MAQUINARIA_CONFECCION_ROPA_INTERIOR/)
 
 #
